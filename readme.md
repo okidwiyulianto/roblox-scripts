@@ -70,3 +70,10 @@ Aku terbuka untuk script keren lainnya!
 
 ### Kata-kata motivasi: 
 > "Coding itu seperti main game, tapi lebih seru karena kamu yang buat rules-nya!"
+
+---
+
+⭐ Jangan lupa kasih bintang ya kalau scriptnya berguna!<br>
+🎀 Happy Coding! 😎
+
+(Repo ini selalu di-update tiap ada script baru! Cek terus ya~)
