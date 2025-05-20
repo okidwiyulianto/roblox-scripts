@@ -1,0 +1,1 @@
+game.Workspace.Button1.Transparency = 0.5
